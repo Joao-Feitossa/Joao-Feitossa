@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil ❤️
 
-<!--
-**Joao-Feitossa/Joao-Feitossa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é João
 
-Here are some ideas to get you started:
+ - Estou estudando na [Alura](https://www.alura.com.br)
+ - Estou no desenvolvimento de linguagem de JavaScript
+ - Utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   ### vocẽ pode entrar em contato comigo 📫
+
+   joaofeitosa029@gmail.com
+
+  <img src="https://media1.tenor.com/m/U-9bSaONTx4AAAAC/mr-penis.gif" alt="Mr Penis GIF"/>![image](https://github.com/user-attachments/assets/cfe44948-22e2-4bd7-9454-814066357913)
